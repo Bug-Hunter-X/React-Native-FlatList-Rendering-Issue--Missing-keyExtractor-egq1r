@@ -1,0 +1,1 @@
+This repository demonstrates a common React Native bug involving the `FlatList` component and its `keyExtractor` prop.  Incorrectly using or omitting the `keyExtractor` prop, especially with large datasets, can lead to performance issues and incorrect rendering. The `bug.js` file shows the problematic code, while `bugSolution.js` provides the corrected implementation.
